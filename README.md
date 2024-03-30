@@ -1,2 +1,2 @@
 # Skin_DiseaseResearch_ISIC2019_Dip
-This is a repository to the testing phase of the ViT model, which is the best model we propose to use in this research.
+This is a repository for the ViT model's testing phase. It is the best model we suggest using for this research.
